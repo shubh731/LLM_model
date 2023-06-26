@@ -1,0 +1,5 @@
+# files which are not important
+myenv/
+.vscode/
+.chainlit/
+constants.py/
